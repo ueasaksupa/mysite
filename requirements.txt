@@ -1,7 +1,7 @@
 asn1crypto
 cffi
 cryptography
-Django==2.2.13
+Django==2.2.24
 django-chartit
 django-mathfilters
 et-xmlfile
